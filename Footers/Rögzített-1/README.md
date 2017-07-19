@@ -1,0 +1,1 @@
+Alul rögzített footer abszolút pozicióval megoldva-
